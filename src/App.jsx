@@ -1,8 +1,8 @@
 import React from 'react'
 import cintiaImage from "./assets/cintiaImage.svg"
 import wpp from "./assets/wpp.svg"
-import instagram from "./assets/instagram.svg"
-import linkedin from "./assets/linkedin.svg"
+// import linkedin from "./assets/linkedin.svg"
+// import instagram from "./assets/instagram.svg"
 
 const App = () => {
   return (
@@ -24,10 +24,10 @@ const App = () => {
         Marque sua consulta
       </a>
 
-      <div className='flex absolute bottom-10 '>
+      {/* <div className='flex absolute bottom-10 '>
         a<img src={instagram} alt="Ícone do instagram" />
         <img src={linkedin} alt="Ícone do linkedin" />
-      </div>
+      </div> */}
       
       <footer className='bg-secundaryColor absolute bottom-0 w-full text-xs p-2'>@Developed by Davi_Ribeiro</footer>
     </div>
