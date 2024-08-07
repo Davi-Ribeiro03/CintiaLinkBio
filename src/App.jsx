@@ -1,8 +1,8 @@
 import React from 'react'
 import cintiaImage from "./assets/cintiaImage.svg"
 import wpp from "./assets/wpp.svg"
-import instagram from "./assets/instagram.svg"
 import linkedin from "./assets/linkedin.svg"
+import instagram from "./assets/instagram.svg"
 
 const App = () => {
   return (
